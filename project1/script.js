@@ -30,7 +30,7 @@ button.addEventListener("click", function () {
         <h2>overweight</h2>
         <h3>between 25-29.9</h3>
     </div>`
-    } else {
+    } else if (weight >= 30) {
         categoreis.innerHTML = ` <div class="active">
         <h2>obesity</h2>
         <h3>30 or greater</h3>
