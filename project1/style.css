@@ -55,12 +55,12 @@ padding: 16px 24px;
     gap: 30px;
     padding: 60px;
 }
-.form{
+/* .form{
     display: flex;
     flex-direction: column;
     gap:20px
     
-}
+} */
 .feilds{
     margin: 20px 10px 0px 40px;
     position: relative;
